@@ -20,5 +20,5 @@ This is the client side
 1. Open Terminal
 2. Go to root directory
 3. run `npm install`
-4. Go to `.env` file and add backend endpoint to `BASE_URL` variable.
+4. Go to `.env` file and add backend endpoint to `REACT_APP_BASE_URL` variable.
 5. run `npm start`

@@ -4,7 +4,7 @@ export const useAxios = _ => {
     // Create axios request
     const request = () => {
         return axios.create({
-            baseURL: process.env.BASE_URL
+            baseURL: process.env.REACT_APP_BASE_URL
         });
     };
 
